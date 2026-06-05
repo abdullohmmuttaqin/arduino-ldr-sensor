@@ -45,4 +45,7 @@ sketch_may28a.ino
 
 ## Author
 
-Abdulloh Muhammad Muttaqin
+ABDULLAH MUHAMMAD MUTTAQIM
+22EO10034
+INFORMATIKA 8 B
+ELEKTRONIKA
