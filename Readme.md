@@ -33,13 +33,7 @@ sketch_may28a.ino
 
 ## Hasil Simulasi
 
-Tambahkan screenshot simulasi Proteus pada file berikut:
-
-```text
-Screenshot_Proteus.png
-```
-
-Kemudian tampilkan gambar pada README dengan sintaks:
+Screenshot2.png
 
 ![Proteus Simulation](Screenshot1.png)
 
