@@ -33,9 +33,8 @@ sketch_may28a.ino
 
 ## Hasil Simulasi
 
-Screenshot2.png
-
 ![Proteus Simulation](Screenshot1.png)
+![Proteus Simulation](Screenshot2.png)
 
 ## Hasil Pengujian
 
