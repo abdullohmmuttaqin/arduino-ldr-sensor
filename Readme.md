@@ -41,9 +41,7 @@ Screenshot_Proteus.png
 
 Kemudian tampilkan gambar pada README dengan sintaks:
 
-```markdown
 ![Proteus Simulation](Screenshot1.png)
-```
 
 ## Hasil Pengujian
 
